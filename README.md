@@ -30,16 +30,15 @@ The analysis includes the following steps:
 
 1. Load and inspect the raw dataset
 2. Check data tidiness and data quality
-3. Identify missing values, duplicates, invalid values, and class imbalance
-4. Visualize feature distributions and relationships
-5. Compare two missing-value handling methods:
+3. Visualize feature distributions and relationships
+4. Compare two missing-value handling methods:
    - KNN imputation
    - Complete-case analysis
-6. Train and evaluate classification models:
+5. Train and evaluate classification models:
    - Majority-class baseline
    - Logistic regression
    - Random forest
-7. Compare model performance using accuracy, ROC-AUC, precision, and recall
+6. Compare model performance using accuracy, ROC-AUC, precision, and recall
 
 ## Methods
 
