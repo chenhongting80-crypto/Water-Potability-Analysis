@@ -2,7 +2,7 @@
 
 This project explores a water potability dataset and builds a basic machine learning workflow to predict whether a water sample is labeled as potable based on physicochemical water-quality indicators.
 
-The goal of this project is not to develop a production-level drinking water safety tool, but to practice a complete data analysis workflow, including data quality assessment, exploratory data analysis, missing-value handling, model training, and model comparison.
+The goal of this project is not to develop a production-level drinking water safety tool, but to practice a complete data analysis workflow, including data assessment, exploratory data analysis, missing-value handling, model training, and model comparison.
 
 ## Dataset
 
